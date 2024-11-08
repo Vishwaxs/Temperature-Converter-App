@@ -1,0 +1,14 @@
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\bin\Debug\net8.0\TemperatureConverterApp.exe
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\bin\Debug\net8.0\TemperatureConverterApp.deps.json
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\bin\Debug\net8.0\TemperatureConverterApp.runtimeconfig.json
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\bin\Debug\net8.0\TemperatureConverterApp.dll
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\bin\Debug\net8.0\TemperatureConverterApp.pdb
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\net8.0\TemperatureConverterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\net8.0\TemperatureConverterApp.AssemblyInfoInputs.cache
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\net8.0\TemperatureConverterApp.AssemblyInfo.cs
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\net8.0\TemperatureConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\net8.0\TemperatureConverterApp.dll
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\net8.0\refint\TemperatureConverterApp.dll
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\net8.0\TemperatureConverterApp.pdb
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\net8.0\TemperatureConverterApp.genruntimeconfig.cache
+C:\Users\Shivam Sood\source\repos\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\net8.0\ref\TemperatureConverterApp.dll
